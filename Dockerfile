@@ -1,4 +1,4 @@
-FROM python:3.7-aplpine
+FROM python:3.7-alpine
 MAINTAINER TestDown App Developer Ltd
 
 ENV PYTHONUNBUFFERED 1
